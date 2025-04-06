@@ -21,7 +21,13 @@ def guardar_pc_info():
     print("Se guardo con exito!!!")
 
 def leer_pc_info():
-    pass
+    try:
+        pc_file = open("pc.txt", "r")
+        print(pc_file.read())
+        pc_file.close()
+    except:
+        print("No se encontro el archivo")
 
 if __name__ == "__main__":
-    guardar_pc_info()
+    #guardar_pc_info()
+    leer_pc_info()
