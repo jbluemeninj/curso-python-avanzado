@@ -3,3 +3,7 @@
  https://realpython.com/python-pep8/
  https://www.mockaroo.com/
  https://pokeapi.co/
+
+ python .\setup.py build
+ python .\setup.py bdist
+

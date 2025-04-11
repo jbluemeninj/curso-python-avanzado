@@ -1,0 +1,11 @@
+LICENCE
+README.md
+setup.py
+src/main.py
+src/linkedin_offers.egg-info/PKG-INFO
+src/linkedin_offers.egg-info/SOURCES.txt
+src/linkedin_offers.egg-info/dependency_links.txt
+src/linkedin_offers.egg-info/top_level.txt
+src/tasks/__init__.py
+src/tasks/get_offers.py
+src/tasks/save_offers.py

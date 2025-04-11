@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: linkedin-offers
+Version: 1.0.0
+Summary: package to scrapping linkedin offres
+Author: Brett Langdon
+License-File: LICENCE
+Dynamic: author
+Dynamic: license-file
+Dynamic: summary
